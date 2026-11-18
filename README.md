@@ -10,27 +10,6 @@
 
 Computer Science student at the University of Southampton. Junior Tech Analyst at Syngenta, building data pipelines.
 
-## Evidence-Based CV Reviewer · cv-reviewer
-
-<p align="left">
-  <img src="media/cv-reviewer.gif" alt="Reviewing a sample CV: overview score, role matches, elevation plan and suggested edits" width="600"/>
-</p>
-
-**Scores a CV with a deterministic rubric and matches it against 40 IT role profiles** · `Python · FastAPI`  
-**Suggests edits from the CV's own lines and rejects rewrites that invent facts** · `JavaScript · Gemini (optional)`  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/cv-reviewer)
-
-## Graph Query Language Interpreter · rql-interpreter
-
-<p align="left">
-  <img src="media/rql-interpreter.png" alt="An RQL query filtering a Turtle graph, and the triples the interpreter returns" width="560"/>
-</p>
-
-**Interpreter for a SPARQL-style query language over RDF graphs** · `Haskell · Alex · Happy`  
-**Lexer, parser, type checker and evaluator, plus a VS Code syntax extension** · `Haskell · TextMate`  
-Team project, extended after the module.  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/rql-interpreter)
-
 ## Clinic Booking App · clinic-booking-app
 
 <p align="left">
@@ -42,6 +21,17 @@ Team project, extended after the module.
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
+## 
+Evidence-Based CV Reviewer · cv-reviewer
+
+<p align="left">
+  <img src="media/cv-reviewer.gif" alt="Reviewing a sample CV: overview score, role matches, elevation plan and suggested edits" width="600"/>
+</p>
+
+**Scores a CV with a deterministic rubric and matches it against 40 IT role profiles** · `Python · FastAPI`  
+**Suggests edits from the CV's own lines and rejects rewrites that invent facts** · `JavaScript · Gemini (optional)`  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/cv-reviewer)
+
 ## Chess Variant AI · chess-agent
 
 <p align="left">
@@ -52,6 +42,17 @@ Team project, extended after the module.
 **Alpha-beta minimax with iterative deepening, transposition table and move ordering; 79–1–0 in benchmarks** · `ChessMaker · pytest`  
 Includes an independent rules engine verified move-for-move against the original (31,408 positions, 0 mismatches).  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/chess-agent)
+
+## Graph Query Language Interpreter · rql-interpreter
+
+<p align="left">
+  <img src="media/rql-interpreter.png" alt="An RQL query filtering a Turtle graph, and the triples the interpreter returns" width="560"/>
+</p>
+
+**Interpreter for a SPARQL-style query language over RDF graphs** · `Haskell · Alex · Happy`  
+**Lexer, parser, type checker and evaluator, plus a VS Code syntax extension** · `Haskell · TextMate`  
+Team project, extended after the module.  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/rql-interpreter)
 
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
