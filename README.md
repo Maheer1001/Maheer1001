@@ -34,11 +34,11 @@ Team project, extended after the module.
 ## Clinic Booking App · clinic-booking-app
 
 <p align="left">
-  <img src="media/clinic-booking-app.gif" alt="Booking an STI test: postcode search on an OpenStreetMap map, choosing a service and a time generated from opening hours, then confirming" width="300"/>
+  <img src="media/clinic-booking-app.gif" alt="Walkthrough: sign in, postcode search on an OpenStreetMap map, choose a service and a time from opening hours, confirmation email, reschedule and cancel, test results, prescriptions, keyboard focus and high contrast" width="420"/>
 </p>
 
-**Desktop app for booking clinic appointments, tracking tests and prescriptions, and email reminders** · `Java 21 · JavaFX`  
-**Slots generated from opening hours; full slots can't be overbooked; 289 tests** · `PostgreSQL · JUnit`  
+**Book a sexual-health clinic appointment in under a minute: postcode search on a live map, slots generated from opening hours** · `Java 21 · JavaFX · Leaflet`  
+**Email confirmations and reminders, reschedule/cancel, test-result and prescription tracking, keyboard and high-contrast support; 299 tests** · `PostgreSQL · JavaMail · JUnit 5`  
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
