@@ -20,7 +20,7 @@ Computer Science student at the University of Southampton. Junior Tech Analyst a
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/rql-interpreter)
 
-## Tactical Shooter Simulator · valorant-sim
+## Tactical Shooter Simulator · valorant-simulator
 
 <p align="left">
   <img src="media/valorant-sim.gif" alt="Stepping through a round: a smoke blocks line of sight, the shot is withheld, then resolves once the smoke expires" width="480"/>
@@ -28,7 +28,7 @@ Team project, extended after the module.
 
 **Deterministic 5v5 round engine: the same seed replays the same round, every time** · `TypeScript`  
 **Line of sight, smokes, ability charges and a steppable event timeline** · `React · Vite · Vitest`  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/valorant-sim)
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/valorant-simulator)
 
 ## Evidence-Based CV Reviewer · cv-reviewer
 
