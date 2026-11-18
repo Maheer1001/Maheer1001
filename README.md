@@ -42,6 +42,17 @@ Team project, extended after the module.
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
+## Chess Variant AI · chess-agent
+
+<p align="left">
+  <img src="media/chess-agent.gif" alt="The agent playing white on a 5x5 Chess Fragments board and delivering checkmate against a greedy opponent" width="360"/>
+</p>
+
+**Game-playing agent for Chess Fragments, a 5×5 chess variant with custom pieces** · `Python`  
+**Alpha-beta minimax with iterative deepening, transposition table and move ordering; 79–1–0 in benchmarks** · `ChessMaker · pytest`  
+Includes an independent rules engine verified move-for-move against the original (31,408 positions, 0 mismatches).  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/chess-agent)
+
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
 <p align="left">
