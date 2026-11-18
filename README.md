@@ -44,6 +44,10 @@ Team project, extended after the module.
 
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
+<p align="left">
+  <img src="media/meteor-trajectory-simulator.gif" alt="Configuring a meteor, its RK4 trajectory through space and the atmosphere as it heats and loses mass, then the impact's blast radii on a world map" width="560"/>
+</p>
+
 **Simulates a meteor from space to impact: RK4 gravity, atmospheric drag, heating and ablation** · `C# · Unity`  
 **Estimates crater and blast radii and reverse-geocodes the impact site** · `Unity UI · REST`  
 A-Level Computer Science NEA.  
