@@ -21,8 +21,7 @@ Computer Science student at the University of Southampton. Junior Tech Analyst a
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
-## 
-Evidence-Based CV Reviewer · cv-reviewer
+## Evidence-Based CV Reviewer · cv-reviewer
 
 <p align="left">
   <img src="media/cv-reviewer.gif" alt="Reviewing a sample CV: overview score, role matches, elevation plan and suggested edits" width="600"/>
