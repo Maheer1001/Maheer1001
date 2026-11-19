@@ -24,11 +24,11 @@ Team project, extended after the module.
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
 <p align="left">
-  <img src="media/meteor-trajectory-simulator.gif" alt="Setting up a stony meteoroid, flying past a true-scale Earth, a glowing atmospheric entry with break-up and airburst, then the results summary, damage-ring map and flight charts" width="600"/>
+  <img src="media/meteor-trajectory-simulator.gif" alt="A 10 km asteroid (the Chicxulub scenario) passes a true-scale Earth, burns through the atmosphere and strikes: a planet-scale fireball and shock rings seen from orbit" width="600"/>
 </p>
 
-**Simulates a meteor from space to the ground: RK4 gravity, US Standard Atmosphere drag, ablation, break-up and airbursts** · `C# · Unity`  
-**True-scale Earth, fireball shaders and Cinemachine cameras; results with geodesic blast rings and charts; 159 tests** · `HLSL · Post Processing · NUnit`  
+**Simulates a meteor from space to the ground, from a house-sized fireball to the dinosaur killer: RK4 gravity, US Standard Atmosphere drag, ablation, break-up and airbursts** · `C# · Unity`  
+**Mix up to four materials or load famous impacts; heat, earthquake, ejecta and tsunami effects on a geodesic world map; true-scale Earth and HLSL fireball shaders; 277 tests** · `HLSL · Cinemachine · NUnit`  
 A-Level Computer Science NEA, rebuilt with a tested physics core.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/meteor-trajectory-simulator)
 
