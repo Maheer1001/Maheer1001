@@ -21,6 +21,17 @@ Computer Science student at the University of Southampton. Junior Tech Analyst a
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
+## Meteor Trajectory Simulator · meteor-trajectory-simulator
+
+<p align="left">
+  <img src="media/meteor-trajectory-simulator.gif" alt="Setting up a stony meteoroid, flying past a true-scale Earth, a glowing atmospheric entry with break-up and airburst, then the results summary, damage-ring map and flight charts" width="600"/>
+</p>
+
+**Simulates a meteor from space to the ground: RK4 gravity, US Standard Atmosphere drag, ablation, break-up and airbursts** · `C# · Unity`  
+**True-scale Earth, fireball shaders and Cinemachine cameras; results with geodesic blast rings and charts; 159 tests** · `HLSL · Post Processing · NUnit`  
+A-Level Computer Science NEA, rebuilt with a tested physics core.  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/meteor-trajectory-simulator)
+
 ## Evidence-Based CV Reviewer · cv-reviewer
 
 <p align="left">
@@ -52,17 +63,6 @@ Includes an independent rules engine verified move-for-move against the original
 **Lexer, parser, type checker and evaluator, plus a VS Code syntax extension** · `Haskell · TextMate`  
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/rql-interpreter)
-
-## Meteor Trajectory Simulator · meteor-trajectory-simulator
-
-<p align="left">
-  <img src="media/meteor-trajectory-simulator.gif" alt="Configuring a meteor, its RK4 trajectory through space and the atmosphere as it heats and loses mass, then the impact's blast radii on a world map" width="560"/>
-</p>
-
-**Simulates a meteor from space to impact: RK4 gravity, atmospheric drag, heating and ablation** · `C# · Unity`  
-**Estimates crater and blast radii and reverse-geocodes the impact site** · `Unity UI · REST`  
-A-Level Computer Science NEA.  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/meteor-trajectory-simulator)
 
 ## Regex Puzzle Solver · regexle-solver
 
