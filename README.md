@@ -24,7 +24,7 @@ Team project, extended after the module.
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
 <p align="left">
-  <img src="media/meteor-trajectory-simulator.gif" alt="A 10 km asteroid (the Chicxulub scenario) passes a true-scale Earth, burns through the atmosphere and strikes: a planet-scale fireball and shock rings seen from orbit" width="600"/>
+  <img src="media/meteor-trajectory-simulator.gif" alt="Using the simulator: mixing iron and stone on the setup screen, launching an inbound entry, switching cameras and time warp, steering the wind, hiding the HUD for the impact, then the results tabs and map layers" width="640"/>
 </p>
 
 **Simulates a meteor from space to the ground, from a house-sized fireball to the dinosaur killer: RK4 gravity, US Standard Atmosphere drag, ablation, break-up and airbursts** · `C# · Unity`  
