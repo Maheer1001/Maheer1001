@@ -10,17 +10,6 @@
 
 Computer Science student at the University of Southampton. Junior Tech Analyst at Syngenta, building data pipelines.
 
-## Clinic Booking App · clinic-booking-app
-
-<p align="left">
-  <img src="media/clinic-booking-app.gif" alt="Walkthrough: sign in, postcode search on an OpenStreetMap map, choose a service and a time from opening hours, confirmation email, reschedule and cancel, test results, prescriptions, keyboard focus and high contrast" width="420"/>
-</p>
-
-**Book a sexual-health clinic appointment in under a minute: postcode search on a live map, slots generated from opening hours** · `Java 21 · JavaFX · Leaflet`  
-**Email confirmations and reminders, reschedule/cancel, test-result and prescription tracking, keyboard and high-contrast support; 299 tests** · `PostgreSQL · JavaMail · JUnit 5`  
-Team project, extended after the module.  
-[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
-
 ## Meteor Trajectory Simulator · meteor-trajectory-simulator
 
 <p align="left">
@@ -31,6 +20,17 @@ Team project, extended after the module.
 **Mix up to four materials or load famous impacts; heat, earthquake, ejecta and tsunami effects on a geodesic world map; true-scale Earth and HLSL fireball shaders; 277 tests** · `HLSL · Cinemachine · NUnit`  
 A-Level Computer Science NEA, rebuilt with a tested physics core.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/meteor-trajectory-simulator)
+
+## Clinic Booking App · clinic-booking-app
+
+<p align="left">
+  <img src="media/clinic-booking-app.gif" alt="Walkthrough: sign in, postcode search on an OpenStreetMap map, choose a service and a time from opening hours, confirmation email, reschedule and cancel, test results, prescriptions, keyboard focus and high contrast" width="420"/>
+</p>
+
+**Book a sexual-health clinic appointment in under a minute: postcode search on a live map, slots generated from opening hours** · `Java 21 · JavaFX · Leaflet`  
+**Email confirmations and reminders, reschedule/cancel, test-result and prescription tracking, keyboard and high-contrast support; 299 tests** · `PostgreSQL · JavaMail · JUnit 5`  
+Team project, extended after the module.  
+[![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
 ## Evidence-Based CV Reviewer · cv-reviewer
 
