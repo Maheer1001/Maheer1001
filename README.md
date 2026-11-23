@@ -24,11 +24,11 @@ A-Level Computer Science NEA, rebuilt with a tested physics core.
 ## Clinic Booking App · clinic-booking-app
 
 <p align="left">
-  <img src="media/clinic-booking-app.gif" alt="Walkthrough: sign in, postcode search on an OpenStreetMap map, choose a service and a time from opening hours, confirmation email, reschedule and cancel, test results, prescriptions, keyboard focus and high contrast" width="420"/>
+  <img src="media/clinic-booking-app.gif" alt="Walkthrough: sign in, book at your usual clinic or the nearest one on an OpenStreetMap map, choose a service and a time, confirm, reminders, test results and prescriptions, then the staff side: the day list, patient records, releasing a result, shortening a course and approving staff" width="420"/>
 </p>
 
 **Book a sexual-health clinic appointment in under a minute: postcode search on a live map, slots generated from opening hours** · `Java 21 · JavaFX · Leaflet`  
-**Email confirmations and reminders, reschedule/cancel, test-result and prescription tracking, keyboard and high-contrast support; 299 tests** · `PostgreSQL · JavaMail · JUnit 5`  
+**Email and in-app reminders, reschedule/cancel, results and prescriptions, plus a staff side with per-clinic roles and result release; 598 tests** · `PostgreSQL · JavaMail · JUnit 5`  
 Team project, extended after the module.  
 [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maheer1001/clinic-booking-app)
 
